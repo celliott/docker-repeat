@@ -1,5 +1,7 @@
 #!/bin/bash
 
+set -u
+set -e
 
 while true; do
     sleep 5
